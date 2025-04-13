@@ -11,7 +11,7 @@
             <img src="https://img.icons8.com/fluent/48/000000/github.png" />
             <br>
             <h2 style="font-family: Helvetica;">
-            Sign in to Github</h2>
+            Login to Github</h2>
             <div class="loginForm">
                 <br>
                 <div class="fontSt">Username</div>
