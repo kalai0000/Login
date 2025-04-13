@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>
-            Sign in to github
+            Login to github
         </title>
         <link rel="stylesheet" href="style.css"/>
     </head>
